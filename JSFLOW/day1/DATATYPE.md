@@ -1,0 +1,12 @@
+- DATA TYPE
+  - Primitive Type - 값을 그대로 할당
+    - Number
+    - String
+    - Boolean
+    - null
+    - undefined
+  - Reference Type - 값이 저장된 주소를 할당
+    - Object
+      - Array
+      - Function
+      - RegExp
